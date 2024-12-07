@@ -1,6 +1,7 @@
 # Zomato Clone
 
 A responsive web application replicating the Zomato landing page, showcasing features like food delivery, dining, collections, and location-based restaurant suggestions.
+LiveLink : https://arpitrautela.github.io/Zomato-clone/
 
 ## Features
 
